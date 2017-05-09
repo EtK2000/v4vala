@@ -1,0 +1,4 @@
+These are lines of text
+sent to your running program
+please make this interactive
+and remove me ;3
