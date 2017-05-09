@@ -1,1 +1,41 @@
+compile=Compile
+compile_tooltip=compile the current file
 
+dialog_open=Open File
+dialog_save=Save File
+
+menu_file=File
+menu_file_new=New
+menu_file_new_tooltip=create a new file
+menu_file_open=Open
+menu_file_open_tooltip=open an existing file
+menu_file_save=Save
+menu_file_save_tooltip=save the current file
+menu_file_saveas=Save As
+menu_file_saveas_tooltip=save the current file as a new file
+
+menu_help=Help
+menu_help_about=About
+menu_help_about_tooltip=A little info about v4vala [WIP]
+menu_help_update=Check for updates
+menu_help_update_tooltip=Check if there is a new version available
+
+menu_window=Window
+menu_window_lang=Language
+
+open=Open
+open_tooltip=open an existing file
+
+run=Run
+run_tooltip=run the current file
+
+save=Save
+save_tooltip=save the current file
+
+stop=Stop
+stop_tooltip=stop the current execution [WIP]
+
+style=Style
+style_tooltip=change the editor's styling [WIP]
+
+update=New version (%f) has been found!\nWould you like to update now?
